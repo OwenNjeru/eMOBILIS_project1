@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836309978331",
+    "project_id": "childsecurityapplication-e73f8",
+    "storage_bucket": "childsecurityapplication-e73f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836309978331:android:99d98874ab0caf5aa010fe",
+        "android_client_info": {
+          "package_name": "com.example.childsecurityapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmHzXRkqGegv4yQ5Y06dt_iSvbv5E8oUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
